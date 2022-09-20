@@ -32,4 +32,4 @@ jobs:
         with:
           message: |
             You can check this code in  with the link
-            https://www.chromatic.com/builds?appId=${{ secrets.CHROMATIC_PROJECT_ID }}
+            https://www.chromatic.com/builds?appId=${{ secrets.CHROMATIC_PROJECT_ID }} 
